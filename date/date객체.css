@@ -84,7 +84,7 @@ p{
 }
 
 #buttons button{
-  width: 100px;
+  padding: 0 20px;
   background-color: aquamarine;
   border: none;
   border-radius: 20px;
