@@ -152,6 +152,10 @@ main .body .image {
     border-bottom: 1px solid grey;
 }
 
+main .body .image > img {
+    width: 100%;
+}
+
 main .body .text {
     padding: 10px 20px;
     display: flex;
